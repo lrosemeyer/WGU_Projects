@@ -13,7 +13,7 @@ This repository contains project that I completed on my way to receiving my mast
 - D213 Task 2
 
 ## Data Cleaning and Analysis
-- 
+- [Data Imputation](https://github.com/lrosemeyer/WGU_Projects/tree/main/D206): For this project, I used R to impute missing values into columns to effectively clean my dataset. I decided to use MICE (Multiple Imputation by Chained Equations) for imputation because it would keep the distribution of each variable the same as before imputation.
 - D207
 
 ## Data Visualization
