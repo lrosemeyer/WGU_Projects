@@ -13,7 +13,7 @@ This repository contains project that I completed on my way to receiving my mast
 - D213 Task 2
 
 ## Data Cleaning and Analysis
-- D206
+- 
 - D207
 
 ## Data Visualization
