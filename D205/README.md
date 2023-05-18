@@ -9,7 +9,7 @@ The graduate implements physical data models.
 ### Table Operations
 The graduate performs table operations and queries within the context of data acquisition for analysis.
 
-## Practical Assessment
+## Performance Assessment
 A common undertaking for a data analyst is to connect an external data collection to an existing data set. This process involves the exploration of the source and target data sets to merge the new data in a meaningful and logical way. 
 
 You will replicate this common process in this task. You will take external data from a CSV file and design conceptual, logical, and physical models that describe the data. You will load the new data into an existing database alongside the existing data and run queries across it. 
