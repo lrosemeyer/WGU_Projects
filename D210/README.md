@@ -11,7 +11,7 @@ The graduate designs interactive dashboards to support executive decision-ma
 
 ## Performance Assessment
 The data analyst’s job does not end once the data has been analyzed. A vital skill for data analysts is to represent and report the data to stakeholders. In this task, you will demonstrate your ability to identify actionable insights from data and communicate them using effective storytelling methods.
-### This task consists of three parts:
+#### This task consists of three parts:
 In part 1, you will use Tableau to create an interactive data dashboard to support executive decision-making. Your dashboard should enable leaders to explore the data, identify trends, and compare key metrics. Your dashboard will feature a variety of interactive reports and data representations and will be accessible to individuals with colorblindness. Your dashboard will integrate data from two sources:
 1.  Provided data set 
 2.  Additional data set: You will identify an external, public data set as an additional data set for your dashboard.
