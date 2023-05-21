@@ -1,5 +1,5 @@
 # WGU Projects
-This repository contains project that I completed on my way to receiving my masters degree in Data Analytics from Western Governors University. This included projects using SQL, R, and Python.
+This repository contains projects that I completed on my way to receiving my masters degree in Data Analytics from Western Governors University. This included projects using SQL, R, and Python.
 
 ## Machine Learning
 - D208
