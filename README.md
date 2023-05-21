@@ -2,7 +2,8 @@
 This repository contains projects that I completed on my way to receiving my masters degree in Data Analytics from Western Governors University. This included projects using SQL, R, and Python.
 
 ## Machine Learning
-- D208
+- [Multiple Linear Regression](https://github.com/lrosemeyer/WGU_Projects/tree/main/D208/Multiple%20Linear%20Regression): I used R to perform multiple linear regression to determine a patients income based on multiple health factors.
+- [Logistic Regression](https://github.com/lrosemeyer/WGU_Projects/tree/main/D208/Logistic%20Regression): I used R to perform logistic regression  to determine the chances a customer will churn based on services that they have purchased.
 - D209
 - D212
 
