@@ -6,10 +6,12 @@ This repository contains projects that I completed on my way to receiving my mas
 - [Logistic Regression](https://github.com/lrosemeyer/WGU_Projects/tree/main/D208/Logistic%20Regression): I used R to perform logistic regression  to determine the chances a customer will churn based on services that they have purchased.
 - [k-Nearest Neighbor](https://github.com/lrosemeyer/WGU_Projects/tree/main/D209/KNN): I used R to perform k-nearest neighbor to determine why a patient was admitted to the hospital based on health factors.
 - [Recursive Partitioning and Regression Trees](https://github.com/lrosemeyer/WGU_Projects/tree/main/D209/RPART): I used decision trees in R to predict whether a patient will churn based on services that they have purchased.
-- D212
+- [Clustering](https://github.com/lrosemeyer/WGU_Projects/tree/main/D212/k-Means%20Clustering)
+- [Dimensionality Reduction](https://github.com/lrosemeyer/WGU_Projects/tree/main/D212/PCA)
+- [Association Rule Learning](https://github.com/lrosemeyer/WGU_Projects/tree/main/D212/Association%20Rule%20Learning)
 
 ## Neural Networks
-- D213 Task 1
+- D213 T
 
 ## Natural Language Processing
 - D213 Task 2
