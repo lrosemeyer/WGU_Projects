@@ -6,9 +6,9 @@ This repository contains projects that I completed on my way to receiving my mas
 - [Logistic Regression](https://github.com/lrosemeyer/WGU_Projects/tree/main/D208/Logistic%20Regression): I used R to perform logistic regression  to determine the chances a customer will churn based on services that they have purchased.
 - [k-Nearest Neighbor](https://github.com/lrosemeyer/WGU_Projects/tree/main/D209/KNN): I used R to perform k-nearest neighbor to determine why a patient was admitted to the hospital based on health factors.
 - [Recursive Partitioning and Regression Trees](https://github.com/lrosemeyer/WGU_Projects/tree/main/D209/RPART): I used decision trees in R to predict whether a patient will churn based on services that they have purchased.
-- [Clustering](https://github.com/lrosemeyer/WGU_Projects/tree/main/D212/k-Means%20Clustering)
-- [Dimensionality Reduction](https://github.com/lrosemeyer/WGU_Projects/tree/main/D212/PCA)
-- [Association Rule Learning](https://github.com/lrosemeyer/WGU_Projects/tree/main/D212/Association%20Rule%20Learning)
+- [Clustering](https://github.com/lrosemeyer/WGU_Projects/tree/main/D212/k-Means%20Clustering): I used R to perform k-means clustering. I clustered patients based on their age and income.
+- [Dimensionality Reduction](https://github.com/lrosemeyer/WGU_Projects/tree/main/D212/PCA): I used R to perform dimensionality reduction and identify principal components of the data.
+- [Association Rule Learning](https://github.com/lrosemeyer/WGU_Projects/tree/main/D212/Association%20Rule%20Learning): I used R to find the top three products that are bought together from the dataset. I used the apriori algorithm to find the rules for association.
 
 ## Neural Networks
 - [Time Series Analysis](https://github.com/lrosemeyer/WGU_Projects/tree/main/D213/Time%20Series%20Analysis): I used R to analyze a time series dataset and forecast the company's future revenue.
