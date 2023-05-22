@@ -11,10 +11,10 @@ This repository contains projects that I completed on my way to receiving my mas
 - [Association Rule Learning](https://github.com/lrosemeyer/WGU_Projects/tree/main/D212/Association%20Rule%20Learning)
 
 ## Neural Networks
-- D213 T
+- [Time Series Analysis](https://github.com/lrosemeyer/WGU_Projects/tree/main/D213/Time%20Series%20Analysis): I used R to analyze a time series dataset and forecast the company's future revenue.
 
 ## Natural Language Processing
-- D213 Task 2
+- [Sentiment Analysis](https://github.com/lrosemeyer/WGU_Projects/tree/main/D213/Natural%20Language%20Processing): I used Python to predict whether someone feels favorably about a product based on the reviews left on Amazon, IMDB, and Yelp.
 
 ## Data Cleaning and Analysis
 - [Data Imputation](https://github.com/lrosemeyer/WGU_Projects/tree/main/D206): I used R to impute missing values into columns to effectively clean my dataset. I decided to use MICE (Multiple Imputation by Chained Equations) for imputation because it would keep the distribution of each variable the same as before imputation.
