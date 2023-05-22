@@ -25,4 +25,4 @@ This repository contains projects that I completed on my way to receiving my mas
 - [Dashboards Cont.](https://github.com/lrosemeyer/WGU_Projects/tree/main/D211)
 
 ## Capstone
-- D214
+- [Hypothesis Testing](https://github.com/lrosemeyer/WGU_Projects/tree/main/D214): For my capstone, I ran hypothesis testing to determine whether gas prices would be useful in predicting prices of common grocery items. I retrieved data from the US Department of Agriculture and the Bureau of Labor Statistics. I used the Granger Causality Test to determine whether gas prices would be useful in predicting each item's price.
