@@ -4,7 +4,8 @@ This repository contains projects that I completed on my way to receiving my mas
 ## Machine Learning
 - [Multiple Linear Regression](https://github.com/lrosemeyer/WGU_Projects/tree/main/D208/Multiple%20Linear%20Regression): I used R to perform multiple linear regression to determine a patients income based on multiple health factors.
 - [Logistic Regression](https://github.com/lrosemeyer/WGU_Projects/tree/main/D208/Logistic%20Regression): I used R to perform logistic regression  to determine the chances a customer will churn based on services that they have purchased.
-- D209
+- [k-Nearest Neighbor](https://github.com/lrosemeyer/WGU_Projects/tree/main/D209/KNN): I used R to perform k-nearest neighbor to determine why a patient was admitted to the hospital based on health factors.
+- [Recursive Partitioning and Regression Trees](https://github.com/lrosemeyer/WGU_Projects/tree/main/D209/RPART): I used decision trees in R to predict whether a patient will churn based on services that they have purchased.
 - D212
 
 ## Neural Networks
@@ -18,8 +19,8 @@ This repository contains projects that I completed on my way to receiving my mas
 - [Hypothesis Testing](https://github.com/lrosemeyer/WGU_Projects/tree/main/D207): I analyzed data in R using measures of central tendency, correlation, and variation. Then, I conducted a T-Test to determine if a higher number of tech support contacts leads to a higher churn rate.
 
 ## Data Visualization
-- D210
-- D211
+- [Dashboards](https://github.com/lrosemeyer/WGU_Projects/tree/main/D210): I created a dashboard in Tableau to visualize data on smoking and complication risk of patients split up by state.
+- [Dashboards Cont.](https://github.com/lrosemeyer/WGU_Projects/tree/main/D211)
 
 ## Capstone
 - D214
