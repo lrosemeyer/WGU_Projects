@@ -13,7 +13,7 @@ This repository contains projects that I completed on my way to receiving my mas
 ## Neural Networks
 - [Time Series Analysis](https://github.com/lrosemeyer/WGU_Projects/tree/main/D213/Time%20Series%20Analysis): I used R to analyze a time series dataset and forecast the company's future revenue.
 
-## Natural Language Programming
+## Natural Language Processing
 - [Sentiment Analysis](https://github.com/lrosemeyer/WGU_Projects/tree/main/D213/Natural%20Language%20Processing): I used Python to predict whether someone feels favorably about a product based on the reviews left on Amazon, IMDB, and Yelp.
 
 ## Data Cleaning and Analysis
